@@ -25,6 +25,10 @@ docker compose -f docker-compose.yml up --build
 ## [User backend](https://github.com/TPP-Grupo158/user-backend)
 ### Requerimientos
 - [Docker](https://www.docker.com/)
+### Ejecuccion
+```
+docker compose -f docker-compose.yml up --build
+```
 ## [Image processing Backend](https://github.com/TPP-Grupo158/image_processing_backend)
 ### Requerimientos
 - [Docker](https://www.docker.com/)
