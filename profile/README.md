@@ -1,9 +1,9 @@
-# -TPP-Grupo158
+# TPP-Grupo158
 
 ## [Front end](https://github.com/TPP-Grupo158/frontend)
 ### Requerimientos
 - [Docker](https://www.docker.com/)
-- [NPM] (https://www.npmjs.com/)
+- [NPM](https://www.npmjs.com/)
 ### Ejecuccion
   ```
 npm run dev
