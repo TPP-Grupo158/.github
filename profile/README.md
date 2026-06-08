@@ -49,6 +49,10 @@ docker compose -f docker-compose.yml up --build
 - Container Image processing Backend levantado
 - 1 o mas GPUS nvidia
 - pro lo menos 16 gb de memoria libres
+- los siguinetes deep learning models:
+  - [VESSEL ROI SEGGMENTATION](https://www.kaggle.com/models/pengchengshi/dataset180_2d_vessel_box_seg_stable)
+  - [ANEURYSM CLS 1 Y 2](https://www.kaggle.com/models/pengchengshi/rsna2025-stage2-models)
+  - [PLANE 2D CLS](https://drive.google.com/drive/folders/1puJUTLiNyoqLPx3gLVY0yFrcjj493vDV?usp=sharing)
 ### Ejecuccion
 ```
 docker compose -f docker-compose.yml up --build
